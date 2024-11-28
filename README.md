@@ -9,7 +9,7 @@ Aqui será meu primeiro site
   **Obs:** hospedado no github
 
 ## Acessando o site
-Pare ter acesso a esse site entre em <https://dailapl.github.io>
+Pare ter acesso a esse site entre em <https://dailalima.github.io>
 
 ## Autor
 Abaixo alguns links para as minhas redes:
